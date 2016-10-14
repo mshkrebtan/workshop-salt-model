@@ -15,12 +15,12 @@ parameters:
     server:
       permit_root_login: true
 #      password_auth: true
-#      user:
-#        root:
-#          enabled: true
-#          user: ${linux:system:user:root}
-#          public_keys:
-#          - ${public_keys:root}
-#  public_keys:
-#    root:
-#      key: your key here
+      user:
+        root:
+          enabled: true
+          user: ${linux:system:user:root}
+          public_keys:
+          - ${public_keys:root}
+  public_keys:
+    root:
+      key:
