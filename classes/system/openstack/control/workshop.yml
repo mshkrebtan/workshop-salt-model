@@ -28,7 +28,7 @@ parameters:
           architectures: amd64
           key_url: "http://apt.tcpcloud.eu/public.gpg"
         tcpcloud_opencontrail:
-          source: "deb [arch=amd64] http://apt.tcpcloud.eu/stable/ trusty oc30"
+          source: "deb [arch=amd64] http://apt.tcpcloud.eu/stable/ trusty oc22"
           architectures: amd64
           key_url: "http://apt.tcpcloud.eu/public.gpg"
   rabbitmq:

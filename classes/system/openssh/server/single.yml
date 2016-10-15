@@ -23,4 +23,4 @@ parameters:
           - ${public_keys:root}
   public_keys:
     root:
-      key:
+      key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfrbtTvJ4NnPdlU5zsyjfurGF7QYrfzEvyOdyPwAWxjWjerB3IMnoPkbYsTrZHIb5Dlwr0ZqmFz+g6FpEhuaHUPP5VU0pu7Z4mal2Yk2JeoZMmI7Cb+CmHaIP0LbIGiBTbJZs148LY8s+sPorsQkijuiosXW78Ak0bLs+rfJ379xjOWuXDDnmJ0Jj1gfnuyHio8Xbb3l4rhbesCGplchImQwpflYAcPeADCby8zhsLtYbxjRq7NBfvfMKBzJOsLLJlCl53LC8SrEFqhgBftrGgLAuENwcSKHsV+RNHnBfAdcpZPbYRgeC5S4eHF8e0GZTXpVF5YrFcJMeRMqVkZGTR mshkrebtan@mshkrebtan.srt.mirantis.net
