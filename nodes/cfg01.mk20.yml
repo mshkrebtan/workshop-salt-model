@@ -30,6 +30,7 @@ parameters:
     system:
       name: cfg01
       domain: mk20
+      timezone: Europe/Moscow
       repo:
         tcpcloud:
           source: "deb [arch=amd64] http://apt.tcpcloud.eu/stable/ trusty main security extra tcp tcp-salt liberty oc22 galera-s9s"
